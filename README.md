@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shalini0024" target="blank"><img src="https://img.shields.io/twitter/follow/shalini0024?logo=twitter&style=for-the-badge" alt="shalini0024" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 🤝 I’m looking for a new role **Frontend Developer**
 
