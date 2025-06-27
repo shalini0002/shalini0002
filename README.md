@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 🤝 I’m looking for a new role **Frontend Developer**
+- 🤝 I’m looking for a new role **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://shalini-sharma-portfolio.netlify.app/](https://shalini-sharma-portfolio.netlify.app/)
 
